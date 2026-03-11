@@ -5,7 +5,7 @@
 
 ---
 
-## 🕹️ [Play it here!](LINK_TO_GITHUB_PAGES)
+## 🕹️ [Play it here!](https://desinoelle.github.io/by-the-light-of-the-moon/)
 
 ---
 
