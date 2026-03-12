@@ -1,8 +1,6 @@
 # By the Light of the Moon
 **An Interactive Narrative built in Twine / Harlowe**
 
-> *Desiree Howell — CSC-281 (001) — Spring 2026*
-
 ---
 
 ## 🕹️ [Play it here!](https://desinoelle.github.io/by-the-light-of-the-moon/)
